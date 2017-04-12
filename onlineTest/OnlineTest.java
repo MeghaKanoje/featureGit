@@ -6,6 +6,8 @@ import javax.swing.*;
 
 class OnlineTest extends JFrame implements ActionListener
 {
+	
+	int test;
 	JLabel l;
 	JRadioButton jb[]=new JRadioButton[5];
 	JButton b1,b2;
